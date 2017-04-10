@@ -25,3 +25,15 @@ Tidy data set is 180 rows (30 participants x 6 activities) and 68 columns (subje
 
 ## Variable description
 Can be found in Codebook
+
+## Files Used
++ activity_labels.txt
++ features.txt
++ test folder
+	+ subject_test.txt
+	+ X_test.txt
+	+ y_test.txt
++ train folder
+	+ subject_train.txt
+	+ X_train.txt
+	+ y_train.txt
