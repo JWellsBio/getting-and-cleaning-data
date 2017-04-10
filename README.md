@@ -2,7 +2,7 @@
 ## Course: Getting and Cleaning Data, Johns Hopkins, Coursera
 ### Jason Wells
 
-##Dataset
+## Dataset
 This activity uses the [Human Activity Recognition Using Smartphones Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 ## Data Description
