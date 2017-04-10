@@ -14,6 +14,7 @@ Output file has 180 rows, with each of the 30 participants having measures from 
 Output file has 68 rows
 + *Subject*: Subject identifier for each participant (1 to 30)
 + *Activity*: See above
+
 For the following, there are two sets of each. 
 If starts with 't' denotes time domain signals.
 If starts with 'f' denotes frequency domain signals.
